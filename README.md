@@ -1,7 +1,7 @@
 <h1>Complete Threat Detection & Response Lab (SIEM + Endpoint Security Integration)</h1>
 
 <h2>Description</h2>
-This project involves setting up a Complete Threat Detection & Response Lab by integrating a SIEM system with endpoint security tools to monitor, detect, and respond to cyber threats. It combines centralized logging, network traffic analysis, and endpoint detection to simulate a real-world enterprise environment where security events are collected, correlated, and addressed through automated workflows.
+(This Project is Scraped for now) This project involves setting up a Complete Threat Detection & Response Lab by integrating a SIEM system with endpoint security tools to monitor, detect, and respond to cyber threats. It combines centralized logging, network traffic analysis, and endpoint detection to simulate a real-world enterprise environment where security events are collected, correlated, and addressed through automated workflows.
 <br />
 
 
