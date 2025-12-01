@@ -31,7 +31,5 @@
   
 - <b>Wazuh Manager</b> 
   
-- <b>Splunk</b> 
-
-<h2>Program walk-through:</h2>
+- <b>Splunk</b>
 
